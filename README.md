@@ -9,23 +9,22 @@ Eager to leverage my skills in development, problem-solving, and collaboration t
 
 ### 💫 **About Me**
 - 🎓 **Degree**: Bachelor's in Computer Science (FAST-NUCES, Karachi)  
-- 🌱 **Currently Learning**: Advanced MERN Stack, Cloud Deployment (Vercel, Azure DevOps)  
-- 💡 **Interests**: Full Stack Development, RESTful APIs
+- 🌱 **Currently Learning**: Advanced Full Stack Frameworks like NextJS, Dotnet & Flutter for App Development
+- 💡 **Interests**: Developing Full Stack Products as per SDLC and Refactoring for Clean Code.
 - 📚 **Technical Skills**:
-  - **Frontend**: ReactJS, TailwindCSS  
-  - **Backend**: NodeJS, ExpressJS, PHP, Symfony  
-  - **Databases**: MongoDB, SQL  
-  - **Tools**: 
-    - Version Control: Git  
-    - Containers: Docker  
-    - Collaboration: Slack, Jira  
-    - Testing & Debugging: Postman  
+  - **Programming Languages:** Python, JavaScript, C/C++, C#, Java, PHP  
+  - **Frontend Development:** ReactJS, Material UI, TailwindCSS  
+  - **Backend Development:** NodeJS, ExpressJS, RabbitMQ  
+  - **DevOps & Deployment:** Docker, Azure DevOps, Vercel  
+  - **Collaboration Tools:** Git, Jira, Slack  
+  - **Databases:** MySQL, MongoDB, Oracle  
+  - **Scripting & Miscellaneous:** Bash (Shell Scripting), Markdown, CUDA  
   - **Design Principles**: Event-Driven Design (EDD), Domain-Driven Design (DDD)  
 
 ---
 
 ### 🚀 **Projects**
-#### **Personalized E-Learning Platform**
+#### **LearnSync - E-Learning Platform**
 A MERN Stack application offering the following features:
 
 - **Guided Learning Paths**:  

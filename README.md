@@ -2,7 +2,7 @@
 
 ### 💻 **Computer Science Graduate | Aspiring Full Stack Software Developer**
 
-Driven Full Stack Developer with a passion for crafting scalable, user-centric solutions to tackle real-world challenges. 
+Driven Full Stack Developer with a passion for crafting scalable, user-centric solutions to tackle real-world challenges. <br>
 Eager to leverage my skills in development, problem-solving, and collaboration to build impactful applications that make a difference.
 
 ---
